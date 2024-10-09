@@ -11,7 +11,6 @@ This is a simple web application built with Flask, HTML, and CSS. It collects us
 1. Clone the repository:
     ```sh
     git clone <(https://github.com/Ahmed-mongi/SWE-REQ2)>
-    cd my_flask_app
     ```
 
 2. Create a virtual environment and activate it:
