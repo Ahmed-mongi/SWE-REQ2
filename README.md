@@ -10,7 +10,7 @@ This is a simple web application built with Flask, HTML, and CSS. It collects us
 
 1. Clone the repository:
     ```sh
-    git clone <your-repo-url>
+    git clone <(https://github.com/Ahmed-mongi/SWE-REQ2)>
     cd my_flask_app
     ```
 
@@ -20,17 +20,13 @@ This is a simple web application built with Flask, HTML, and CSS. It collects us
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
-3. Install dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
 
-4. Run the application:
+3. Run the application:
     ```sh
     python app.py
     ```
 
-5. Open your browser and navigate to `http://127.0.0.1:5000`.
+4. Open your browser and navigate to `http://127.0.0.1:5000`.
 
 ## Project Structure
 - `app.py`: Main Flask application.
